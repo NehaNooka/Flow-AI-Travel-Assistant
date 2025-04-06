@@ -2,9 +2,6 @@
 
 [Watch the Demo Video](https://youtube.com/shorts/10GUpMTtgJc?feature=share)
 
-![](./public/videos/demo.gif)
-![](./public/videos/demo.mp4)
-
 ## Project Overview
 
 Flow is a React Native travel assistant application built with Expo that utilizes OpenAI's API for intelligent trip planning conversations. The app allows users to chat with an AI assistant to plan trips, get recommendations, and make travel arrangements. The minimalist design focuses on smooth conversation flow and readable interface.
