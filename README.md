@@ -2,7 +2,8 @@
 
 [Watch the Demo Video](https://youtube.com/shorts/10GUpMTtgJc?feature=share)
 
-![Flow App Demo](./Demo.gif)
+![Demo](https://github.com/user-attachments/assets/19f77800-263b-4a14-b898-ff25c7015052)
+
 
 ## Project Overview
 
