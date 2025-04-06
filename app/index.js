@@ -1,4 +1,4 @@
-import 'react-native-gesture-handler'; // This should be at the very top!
+import 'react-native-gesture-handler'; 
 import { NavigationContainer } from '@react-navigation/native';
 import React, { useState, useEffect } from 'react';
 import AppNavigator from '../src/navigation/AppNavigator';
