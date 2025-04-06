@@ -63,13 +63,13 @@ const styles = StyleSheet.create({
   },
   userBubble: {
     backgroundColor: '#f5dfb9',
-    borderBottomRightRadius: 0,  // Remove bottom right radius completely
+    borderBottomRightRadius: 0, 
     borderRadius: 30,
     paddingHorizontal: 20,
   },
   botBubble: {
     backgroundColor: '#000',
-    borderBottomLeftRadius: 0,  // Remove bottom left radius completely
+    borderBottomLeftRadius: 0, 
     borderRadius: 30,
     paddingHorizontal: 20,
   },
