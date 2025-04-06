@@ -68,10 +68,6 @@ npx expo start
 /flow-app
   /app
     index.js            # App entry point
-  /public
-    /videos             # App Demo
-      demo.mp4
-      demo.gif
   /src
     /components
       ChatBubble.js     # Chat message bubble with styling
