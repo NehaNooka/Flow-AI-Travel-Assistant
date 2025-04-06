@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-// Replace with your OpenAI API key or use environment variables
+// Replace with your OpenAI API key 
 const OPENAI_API_KEY = 'YOUR_OPENAI_API_KEY';
 
 const api = axios.create({
