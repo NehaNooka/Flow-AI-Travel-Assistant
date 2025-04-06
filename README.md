@@ -1,8 +1,6 @@
 # Flow - AI Travel Assistant
 
-## View Demo
-
-![](Demo.gif)
+[Watch the Demo Video](https://youtube.com/shorts/10GUpMTtgJc?feature=share)
 
 ## Project Overview
 
